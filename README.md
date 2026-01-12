@@ -6,5 +6,11 @@ They are currently available at patch point
 
 [ESP_CAFE CODE REPOSITORY](https://github.com/pblasser/esp_cafe/)
 
+[CLAWYER REPOSITORY](https://github.com/pblasser/clawyer/)
+
+[PETERS SUPERCOLLIDER REPOSITORY](https://github.com/pblasser/supa/)
+
+[PETERS SKETCHUP REPOSITORY](https://github.com/pblasser/sketch2023/)
+
 ![sidrassi](sidrWEB.jpg)
 
