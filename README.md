@@ -14,3 +14,4 @@ They are currently available at patch point
 
 ![sidrassi](sidrWEB.jpg)
 
+[CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
