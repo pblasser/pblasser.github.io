@@ -1,4 +1,4 @@
-# pblasser.github.io
+# PBLASSER
 So we are now at the page of peter blasser who designs the instruments of ciat-lonbarde, shbobo, tocante, ieakul f. mobenthey, and so on.
 They are currently available at patch point
 If you are interested in publishing portions (sound, images) of the old site, please get in touch.
