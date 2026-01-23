@@ -17,7 +17,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 
 [CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
 
-       <form action="https://www.paypal.com/cgi-bin/webscr"
+<form action="https://www.paypal.com/cgi-bin/webscr"
         method="post">
           <input name="cmd" value="_xclick" type="hidden">
           <input name="business" value="pete@ciat-lonbarde.net"
