@@ -17,12 +17,3 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 
 [CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
 
-<form action="https://www.paypal.com/cgi-bin/webscr"
-        method="post">
-          <input name="cmd" value="_xclick" type="hidden">
-          <input name="business" value="pete@ciat-lonbarde.net"
-          type="hidden"> <input name="item_name" value="tetrax"
-          type="hidden"> <input name="amount" value="600" type=
-          "hidden"> <input name="currency_code" value="USD" type=
-          "hidden"> <input value="tetrax $600" type="submit">
-        </form>
