@@ -16,4 +16,10 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 ## Some Manuals For you
 
 [CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
+coming soon nortube
+
+## Some Articles For you
+[Stores at the Mall](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf)
+[Oval Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
+[Solar Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
 
