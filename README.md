@@ -7,19 +7,19 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 ![sidrassi](sidrWEB.jpg)
 
 ## Some Repositories For YOu
-[SHBOBO](https://github.com/pblasser/shbobo/)
-[ESP_CAFE](https://github.com/pblasser/esp_cafe/)
-[CLAWYER](https://github.com/pblasser/clawyer/)
-[SUPERCOLLIDER](https://github.com/pblasser/supa/)
-[SKETCHUP](https://github.com/pblasser/sketch2023/)
++[SHBOBO](https://github.com/pblasser/shbobo/)
++[ESP_CAFE](https://github.com/pblasser/esp_cafe/)
++[CLAWYER](https://github.com/pblasser/clawyer/)
++[SUPERCOLLIDER](https://github.com/pblasser/supa/)
++[SKETCHUP](https://github.com/pblasser/sketch2023/)
 
 ## Some Manuals For you
 
-[CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
++[CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
 coming soon nortube
 
 ## Some Articles For you
-[Stores at the Mall](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf)
-[Oval Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
-[Solar Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
++[Stores at the Mall](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf)
++[Oval Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
++[Solar Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
 
