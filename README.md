@@ -25,7 +25,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [On_Piezos](pdf/piezo.pdf)
 &#11044; [Plumbutter](pdf/pb_scheme.pdf)
 &#11044; [Studworth25](pdf/studworth25.pdf)
-&#11044;
+&#11044; [studworth.scd](studworth.scd)
 ### Ieaskul F. Mobenthey
 &#11044; [Barre](pdf/ifmBAR.pdf)
 &#11044; [Denum](pdf/ifmDEN.pdf)
