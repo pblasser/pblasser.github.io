@@ -7,53 +7,55 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 ![sidrassi](sidrWEB.jpg)
 
 ## Some Repositories For YOu
- [SHBOBO](https://github.com/pblasser/shbobo/)
- [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
- [CLAWYER](https://github.com/pblasser/clawyer/)
- [SUPERCOLLIDER](https://github.com/pblasser/supa/)
- [SKETCHUP](https://github.com/pblasser/sketch2023/)
+&#11044; [SHBOBO](https://github.com/pblasser/shbobo/)
+&#11044; [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
+&#11044; [CLAWYER](https://github.com/pblasser/clawyer/)
+&#11044; [SUPERCOLLIDER](https://github.com/pblasser/supa/)
+&#11044; [SKETCHUP](https://github.com/pblasser/sketch2023/)
+&#11044;
 
 ## Some Manuals For you
- [CAFETERIA_MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
- NORTUBE
+&#11044; [CAFETERIA_MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
+&#11044; NORTUBE
+&#11044;
 
 ### Older Ciat Lonbarde Documents
- [Cocoquantus](pdf/cq_scheme.pdf)
- [Cocostuber](pdf/cs_manual.pdf)
- [On_Piezos](pdf/piezo.pdf)
- [Plumbutter](pdf/pb_scheme.pdf)
- [Studworth25](pdf/studworth25.pdf)
-
+&#11044; [Cocoquantus](pdf/cq_scheme.pdf)
+&#11044; [Cocostuber](pdf/cs_manual.pdf)
+&#11044; [On_Piezos](pdf/piezo.pdf)
+&#11044; [Plumbutter](pdf/pb_scheme.pdf)
+&#11044; [Studworth25](pdf/studworth25.pdf)
+&#11044;
 ### Ieaskul F. Mobenthey
- [Barre](pdf/ifmBAR.pdf)
- [Denum](pdf/ifmDEN.pdf)
- [Dunst](pdf/ifmDUN.pdf)
- [Fourses](pdf/ifmFRS.pdf)
- [Grassi](pdf/ifmGRA.pdf)
- [Mocante](pdf/ifmMOC.pdf)
- [Sprott](pdf/ifmSPR.pdf)
- [Swoop](pdf/ifmSWO.pdf)
-
+&#11044; [Barre](pdf/ifmBAR.pdf)
+&#11044; [Denum](pdf/ifmDEN.pdf)
+&#11044; [Dunst](pdf/ifmDUN.pdf)
+&#11044; [Fourses](pdf/ifmFRS.pdf)
+&#11044; [Grassi](pdf/ifmGRA.pdf)
+&#11044; [Mocante](pdf/ifmMOC.pdf)
+&#11044; [Sprott](pdf/ifmSPR.pdf)
+&#11044; [Swoop](pdf/ifmSWO.pdf)
+&#11044;
 ### Paper Circuits
- [Fourses](pdf/fourses.pdf)
- [Mister_Grassi](pdf/grassi.pdf)
-
+&#11044; [Fourses](pdf/fourses.pdf)
+&#11044; [Mister_Grassi](pdf/grassi.pdf)
+&#11044;
 
 ## Some Articles For you
- [Masters_thesis](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf) [backup](pdf/pb_mast.pdf)
- [Oval_Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
- [Solar_Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
-
+&#11044; [Masters_thesis](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf) &#11044; [backup](pdf/pb_mast.pdf)
+&#11044; [Oval_Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
+&#11044; [Solar_Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
+&#11044;
 ## Coloring Projects
- [Computer_Music_Coloring_Papers](pdf/cmloring.pdf)
- [Ciat_Lonbarde_Coloring_Book](pdf/coloring.pdf)
- [Deerhorn](pdf/deerhorn.pdf)
- [Deertick](pdf/deertick.pdf)
- [Runes](pdf/runes.pdf)
- [Songs](pdf/songs.pdf)
- [Spells](pdf/spells.pdf)
- [Trashnite](pdf/trashnite.pdf)
-
+&#11044; [Computer_Music_Coloring_Papers](pdf/cmloring.pdf)
+&#11044; [Ciat_Lonbarde_Coloring_Book](pdf/coloring.pdf)
+&#11044; [Deerhorn](pdf/deerhorn.pdf)
+&#11044; [Deertick](pdf/deertick.pdf)
+&#11044; [Runes](pdf/runes.pdf)
+&#11044; [Songs](pdf/songs.pdf)
+&#11044; [Spells](pdf/spells.pdf)
+&#11044; [Trashnite](pdf/trashnite.pdf)
+&#11044;
 ## Poem
 <pre><i>
 coco jibral
