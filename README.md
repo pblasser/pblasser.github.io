@@ -20,8 +20,9 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 ### Older Ciat Lonbarde Documents
 + [Cocoquantus](pdf/cq_scheme.pdf)
 + [Cocostuber](pdf/cs_manual.pdf)
++ [On Piezos](pdf/piezo.pdf)
 + [Plumbutter](pdf/pb_scheme.pdf)
-
++ [Studworth '25](pdf/studworth25.pdf)
 
 ### Ieaskul F. Mobenthey
 + [Barre](pdf/ifmBAR.pdf)
@@ -33,6 +34,9 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 + [Sprott](pdf/ifmSPR.pdf)
 + [Swoop](pdf/ifmSWO.pdf)
 
+### Paper Circuits
++ [Fourses](pdf/fourses.pdf)
++ [Mister Grassi](pdf/grassi.pdf)
 
 
 ## Some Articles For you
@@ -41,7 +45,11 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 + [Solar Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
 
 ## Coloring Projects
-+ [Cmloring](pdf/cmloring.pdf)
-+ [Coloring](pdf/coloring.pdf)
-+ [Deerhorn](pdf/deerhorn.pdf)
-+ [Deertick](pdf/deertick.pdf)
++ [Computer Music Coloring Papers](pdf/cmloring.pdf)
++ [Ciat Lonbarde Coloring Book](pdf/coloring.pdf)
++ [Deerhorn Project](pdf/deerhorn.pdf)
++ [Deertick Band](pdf/deertick.pdf)
++ [Runes](pdf/runes.pdf)
++ [Songs](pdf/songs.pdf)
++ [Spells](pdf/spells.pdf)
++ [Trash Nite](pdf/trashnite.pdf)
