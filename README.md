@@ -57,6 +57,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [Trashnite](pdf/trashnite.pdf)
 &#11044;
 ## Songs
+&#11044; [otsink](mp3/otsink.mp3)
 &#11044; [din_datin_dudero](mp3/11DinDatinDudero.mp3)
 &#11044; [go_eat_some_bread](mp3/11Bread.mp3)
 &#11044; [dont_b_distrbd_by_the_presence_of_wire](mp3/12wire.mp3)
