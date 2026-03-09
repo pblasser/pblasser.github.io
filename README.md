@@ -53,3 +53,31 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 + [Songs](pdf/songs.pdf)
 + [Spells](pdf/spells.pdf)
 + [Trash Nite](pdf/trashnite.pdf)
+
+## Poem
+<pre><i>
+coco jibral
+I enter my ghost into the cocolase,
+the cocolase dances its tube,
+that thru which I squeeze,
+am stuck forever bent by the multo wheels
+and free spinnet balls of the sidrassi.
+Sidrassi spin, not grinding but wobbling
+through Nodemesnes' meaning jelly.
+Most fields of the jelly are empty,
+or filled with papers scraps, cat hair, crayons, and lots of candy.
+Nodemesnes meant that the meaningless jelly is unreal.
+So you have not truly arrived at the ancient areas of the jelly,
+even when you hear scraps of the whispers and warnings made in the darkened house:
+sine pellatio felliniarum
+muni cassadi
+killers
+you -- joseph
+</i></pre>
+
+Nodemesnes said "people can't dwell in my meaningless jelly unless it's real --
+when you squirm through it to a clearing where you hear alien voices,
+these are your own voice transposed to the darkened house.
+The sidrassi shatter your path thru the jelly,
+bending you into a field of trash and paper scraps."
+
