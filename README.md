@@ -7,52 +7,52 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 ![sidrassi](sidrWEB.jpg)
 
 ## Some Repositories For YOu
-+ [SHBOBO](https://github.com/pblasser/shbobo/)
-+ [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
-+ [CLAWYER](https://github.com/pblasser/clawyer/)
-+ [SUPERCOLLIDER](https://github.com/pblasser/supa/)
-+ [SKETCHUP](https://github.com/pblasser/sketch2023/)
+ [SHBOBO](https://github.com/pblasser/shbobo/)
+ [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
+ [CLAWYER](https://github.com/pblasser/clawyer/)
+ [SUPERCOLLIDER](https://github.com/pblasser/supa/)
+ [SKETCHUP](https://github.com/pblasser/sketch2023/)
 
 ## Some Manuals For you
-+ [CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
-+ coming soon nortube
+ [CAFETERIA_MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
+ NORTUBE
 
 ### Older Ciat Lonbarde Documents
-+ [Cocoquantus](pdf/cq_scheme.pdf)
-+ [Cocostuber](pdf/cs_manual.pdf)
-+ [On Piezos](pdf/piezo.pdf)
-+ [Plumbutter](pdf/pb_scheme.pdf)
-+ [Studworth '25](pdf/studworth25.pdf)
+ [Cocoquantus](pdf/cq_scheme.pdf)
+ [Cocostuber](pdf/cs_manual.pdf)
+ [On_Piezos](pdf/piezo.pdf)
+ [Plumbutter](pdf/pb_scheme.pdf)
+ [Studworth25](pdf/studworth25.pdf)
 
 ### Ieaskul F. Mobenthey
-+ [Barre](pdf/ifmBAR.pdf)
-+ [Denum](pdf/ifmDEN.pdf)
-+ [Dunst](pdf/ifmDUN.pdf)
-+ [Fourses](pdf/ifmFRS.pdf)
-+ [Grassi](pdf/ifmGRA.pdf)
-+ [Mocante](pdf/ifmMOC.pdf)
-+ [Sprott](pdf/ifmSPR.pdf)
-+ [Swoop](pdf/ifmSWO.pdf)
+ [Barre](pdf/ifmBAR.pdf)
+ [Denum](pdf/ifmDEN.pdf)
+ [Dunst](pdf/ifmDUN.pdf)
+ [Fourses](pdf/ifmFRS.pdf)
+ [Grassi](pdf/ifmGRA.pdf)
+ [Mocante](pdf/ifmMOC.pdf)
+ [Sprott](pdf/ifmSPR.pdf)
+ [Swoop](pdf/ifmSWO.pdf)
 
 ### Paper Circuits
-+ [Fourses](pdf/fourses.pdf)
-+ [Mister Grassi](pdf/grassi.pdf)
+ [Fourses](pdf/fourses.pdf)
+ [Mister_Grassi](pdf/grassi.pdf)
 
 
 ## Some Articles For you
-+ [Stores at the Mall](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf) [Masters Thesis backup](pdf/pb_mast.pdf)
-+ [Oval Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
-+ [Solar Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
+ [Masters_thesis](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf) [backup](pdf/pb_mast.pdf)
+ [Oval_Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
+ [Solar_Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
 
 ## Coloring Projects
-+ [Computer Music Coloring Papers](pdf/cmloring.pdf)
-+ [Ciat Lonbarde Coloring Book](pdf/coloring.pdf)
-+ [Deerhorn Project](pdf/deerhorn.pdf)
-+ [Deertick Band](pdf/deertick.pdf)
-+ [Runes](pdf/runes.pdf)
-+ [Songs](pdf/songs.pdf)
-+ [Spells](pdf/spells.pdf)
-+ [Trash Nite](pdf/trashnite.pdf)
+ [Computer_Music_Coloring_Papers](pdf/cmloring.pdf)
+ [Ciat_Lonbarde_Coloring_Book](pdf/coloring.pdf)
+ [Deerhorn](pdf/deerhorn.pdf)
+ [Deertick](pdf/deertick.pdf)
+ [Runes](pdf/runes.pdf)
+ [Songs](pdf/songs.pdf)
+ [Spells](pdf/spells.pdf)
+ [Trashnite](pdf/trashnite.pdf)
 
 ## Poem
 <pre><i>
