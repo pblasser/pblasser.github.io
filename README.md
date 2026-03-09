@@ -56,6 +56,16 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [Spells](pdf/spells.pdf)
 &#11044; [Trashnite](pdf/trashnite.pdf)
 &#11044;
+## Songs
+&#11044; [go_eat_some_bread](mp3/11Bread.mp3)
+&#11044; [dont_b_distrbd_by_the_presence_of_wire](mp3/12wire.mp3)
+&#11044; [the_tube_thru_which_you_squeeze_ur_jelly_ass](mp3/yourjellyass.mp3)
+&#11044;
+## Links
+&#11044; [blogspot](https://petermopar.blogspot.com/)
+&#11044; [youtube](https://www.youtube.com/petermopar) 
+&#11044; [instagram](https://www.instagram.com/ciat_lonbarde)
+&#11044; 
 ## Poem
 <pre><i>
 coco jibral
