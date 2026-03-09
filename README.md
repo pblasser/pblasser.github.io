@@ -14,9 +14,19 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 + [SKETCHUP](https://github.com/pblasser/sketch2023/)
 
 ## Some Manuals For you
-
 + [CAFETERIA MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
 coming soon nortube
+
+### Ieaskul F. Mobenthey
++ [Barre](pdf/ifmBAR.pdf)
++ [Denum](pdf/ifmDEN.pdf)
++ [Dunst](pdf/ifmDUN.pdf)
++ [Fourses](pdf/ifmFRS.pdf)
++ [Grassi](pdf/ifmGRA.pdf)
++ [Mocante](pdf/ifmMOC.pdf)
++ [Sprott](pdf/ifmSPR.pdf)
++ [Swoop](pdf/ifmSWO.pdf)
+
 
 ## Some Articles For you
 + [Stores at the Mall](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf)
