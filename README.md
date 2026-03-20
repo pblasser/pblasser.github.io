@@ -63,6 +63,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [AV_dog](mp3/04AVDog.mp3)
 &#11044; [dont_b_distrbd_by_the_presence_of_wire](mp3/12wire.mp3)
 &#11044; [the_tube_thru_which_you_squeeze_ur_jelly_ass](mp3/yourjellyass.mp3)
+&#11044; [goodbye](mp3/15goodbye.mp3)
 &#11044;
 ## Links
 &#11044; [blogspot](https://petermopar.blogspot.com/)
