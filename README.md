@@ -83,9 +83,9 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 <tr><td> Steve Korn and I started Shbobo in the Fall of 2010, which focused exclusively on gestural instruments for USB. <td> <img src="jpg/kornBLASSER.jpg">  
  <tr><td colspan=2> SHNTH and TARSH (SHTAR) are the two results.
   <tr><td colspan=2> <img src="jpg/ashSMOKE.jpg">
-</table>
-
-## Poem
+<tr><td colspan=2> <img src="jpg/ashSMOKE.jpg">
+<tr><td><img src="jpg/golden.jpg"><td>The Tocante line of musical instruments is "about" and "touching" the materials of electronics. Each touchpad represents a pitch according to industry "preferred numbers," chosen by old wartime engineers for non-musical purposes. Here they form a unique and haunting musical scale, not unlike that of a gamelan or the neutral intervals of Persian music. Beyond these base pitches, three golden sandrodes flank each touchpad; touching these androgynous nodes yields intermodulation, pitch and timbral shifts, and emergent chaotic masses. The instruments come in three flavors: thyris the triangle, bistab the square, and phashi the circle. The oscillators sound like a bowed string, a most powerful clarinet, and a howling serene whistle, respectively. Each responds to touch differently. Solar panels charge the onboard batteries, that power the oscillators and a speaker. They are the perfect self-contained instrument for nightly music at the campground.
+<tr><td>It is also available in red.<td><img src="red.jpg">
 <pre><i>
 coco jibral
 I enter my ghost into the cocolase,
@@ -105,10 +105,9 @@ muni cassadi
 killers
 you -- joseph
 </i></pre>
-
 Nodemesnes said "people can't dwell in my meaningless jelly unless it's real --
 when you squirm through it to a clearing where you hear alien voices,
 these are your own voice transposed to the darkened house.
 The sidrassi shatter your path thru the jelly,
 bending you into a field of trash and paper scraps."
-
+</table>
