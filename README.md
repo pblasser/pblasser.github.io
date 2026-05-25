@@ -72,6 +72,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; 
 
 ##About
+
 | -------- | ------- |
 | ![hansgruesel](jpg/hansgruesel.jpg) | I started Ciat-Lonbarde in 2003, with the ambrazier series of digital delay instruments, which became tranoe, cocolase, cocostuber, then cocoquantus, and finally cafe quantum. |
  | Ciat-Lonbarde also released kits for the fourses and fyral which are played by touch and other circuit bending techniques. | ![hansgruesel](jpg/ascionlight.jpg) | 
