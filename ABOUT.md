@@ -2,13 +2,12 @@
 <table>
 <tr><td align=right> In 2003, as part of a grant from the Daniel Langlois foundation, I constructed and performed a Shinth, an instrument designed for circuit bending. <td><img src="jpg/shinth.jpg">
 
-<tr><td align=right><img src="jpg/hansgruesel.jpg">  <td> I started Ciat-Lonbarde in 2003, with the ambrazier series of digital delay instruments, which became tranoe, cocolase, cocostuber, then cocoquantus, and finally cafe quantum. 
-<tr><td align=right> <img src="jpg/hansgruesel.jpg">  <td> I started Ciat-Lonbarde in 2003, with the ambrazier series of digital delay instruments, which became tranoe, cocolase, cocostuber, then cocoquantus, and finally cafe quantum. 
-<tr><td align=right>Ciat-Lonbarde also released kits for the fourses and fyral which are played by touch and other circuit bending techniques. <td align=left> <img src="jpg/ascionlight.jpg"> 
+<tr><td align=right><img src="jpg/hansgruesel.jpg">  <td> I also started Ciat-Lonbarde in 2003, with the Ambrazier, a digital delay instrument, which later became Tranoe, Cocolase, Cocostuber, then Cocoquantus, and finally Cafe Quantum. 
+<tr><td align=right>Ciat-Lonbarde also released kits for the Fourses and Fyral which are played by touch and other circuit bending techniques. <td align=left> <img src="jpg/ascionlight.jpg"> 
 <tr><td align=right> <img src="jpg/sid3.jpg"> <td> Ciat-Lonbarde also released the sidrassi, sidrazzi, and tetrazzi, which became the sidrax and tetrax that are available today.
 
-
-
+<tr><td colspan=2 align=center> <img src="jpg/rolzer.jpg">
+  <tr><td colspan=2 align=center>The Plumbutter came about after a long process of prototyping an experimental drum machine. The Rolzer is its source of free jazz energy.
 
 
  <tr><td colspan=2 align=center> <img src="jpg/presslow.jpg">
@@ -20,5 +19,5 @@
 <tr><td align=left><img src="jpg/golden.jpg"><td>The Tocante line of musical instruments is "about" and "touching" the materials of electronics. Each touchpad represents a pitch according to industry "preferred numbers," chosen by old wartime engineers for non-musical purposes. Here they form a unique and haunting musical scale, not unlike that of a gamelan or the neutral intervals of Persian music. Beyond these base pitches, three golden sandrodes flank each touchpad; touching these androgynous nodes yields intermodulation, pitch and timbral shifts, and emergent chaotic masses. The instruments come in three flavors: thyris the triangle, bistab the square, and phashi the circle. The oscillators sound like a bowed string, a most powerful clarinet, and a howling serene whistle, respectively. Each responds to touch differently. Solar panels charge the onboard batteries, that power the oscillators and a speaker. They are the perfect self-contained instrument for nightly music at the campground.
 <tr><td align=right>It is also available in red, and other flavors: zenert is filtered noise, karper is karpluss-strong, and studworth is the kit.<td align=right><img src="jpg/red.jpg">
 <tr><td colspan=2 align=center> <img src="jpg/igm.jpg">
-<tr><td align=center> Ieaskul F. Mobenthey is a series of modules in the Eurorack format.
+<tr><td colspan=2 align=center> Ieaskul F. Mobenthey is a series of modules in the Eurorack format.
 
