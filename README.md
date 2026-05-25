@@ -4,7 +4,7 @@ They are currently available at [Patch Point](https://patch-point.com/).
 If you are interested in publishing portions (sound, images) of the old site, please get in touch.
 
 
-![sidrassi](sidrWEB.jpg)
+![sidrassi](jpg/sidrWEB.jpg)
 
 ## Some Repositories For YOu
 &#11044; [SHBOBO](https://github.com/pblasser/shbobo/)
@@ -70,6 +70,17 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [youtube](https://www.youtube.com/petermopar) 
 &#11044; [instagram](https://www.instagram.com/ciat_lonbarde)
 &#11044; 
+
+##About
+| -------- | ------- |
+| [hansgruesel](jpg/hansgruesel.jpg) | I started Ciat-Lonbarde in 2003, with the ambrazier series of digital delay instruments, which became tranoe, cocolase, cocostuber, then cocoquantus, and finally cafe quantum. |
+ | Ciat-Lonbarde also released kits for the fourses and fyral which are played by touch and other circuit bending techniques. | [hansgruesel](jpg/ascionlight.jpg) | 
+| [sid3](jpg/sid3.jpg) | Ciat-Lonbarde also released the sidrassi, sidrazzi, and tetrazzi, which became the sidrax and tetrax that are available today. |
+| Steve Korn and I started Shbobo in 2010, which focused exclusively on gestural instruments for USB. | [kornBLASSER](jpg/kornBLASSER.jpg) | 
+|  <td colspan=2> SHNTH and TARSH (SHTAR) are Shbobo products. |
+|  <td colspan=2> [ashSMOKE](jpg/ashSMOKE.jpg) |
+| March | $420 |
+
 ## Poem
 <pre><i>
 coco jibral
