@@ -78,7 +78,8 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 <tr><td>Ciat-Lonbarde also released kits for the fourses and fyral which are played by touch and other circuit bending techniques. <td> <img src="jpg/ascionlight.jpg"> 
 <tr><td> <img src="jpg/sid3.jpg"> <td> Ciat-Lonbarde also released the sidrassi, sidrazzi, and tetrazzi, which became the sidrax and tetrax that are available today.
  <tr><td colspan=2> <img src="jpg/neongreen.jpg">
-  <tr><td><img src="jpg/deer.jpg"><td> Deerhorn started as a series of hanging instruments to explore invisible (radio) fields in space, which became the Deerhorn and Tierhorn series of instruments.
+  <tr><td colspan=2>Deerhorn started as a series of hanging instruments to explore invisible (radio) fields in space
+  <tr><td><img src="jpg/deer.jpg"><td> It became the Deerhorn and Tierhorn series of instruments.
 <tr><td> Steve Korn and I started Shbobo in the Fall of 2010, which focused exclusively on gestural instruments for USB. <td> <img src="jpg/kornBLASSER.jpg">  
  <tr><td colspan=2> SHNTH and TARSH (SHTAR) are the two results.
   <tr><td colspan=2> <img src="jpg/ashSMOKE.jpg">
