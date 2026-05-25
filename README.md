@@ -71,7 +71,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [instagram](https://www.instagram.com/ciat_lonbarde)
 &#11044; 
 
-## About
+## [About](ABOUT.md)
 
 <table>
 <tr><td align=right> <img src="jpg/hansgruesel.jpg">  <td> I started Ciat-Lonbarde in 2003, with the ambrazier series of digital delay instruments, which became tranoe, cocolase, cocostuber, then cocoquantus, and finally cafe quantum. 
@@ -86,6 +86,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 <tr><td align=left><img src="jpg/golden.jpg"><td>The Tocante line of musical instruments is "about" and "touching" the materials of electronics. Each touchpad represents a pitch according to industry "preferred numbers," chosen by old wartime engineers for non-musical purposes. Here they form a unique and haunting musical scale, not unlike that of a gamelan or the neutral intervals of Persian music. Beyond these base pitches, three golden sandrodes flank each touchpad; touching these androgynous nodes yields intermodulation, pitch and timbral shifts, and emergent chaotic masses. The instruments come in three flavors: thyris the triangle, bistab the square, and phashi the circle. The oscillators sound like a bowed string, a most powerful clarinet, and a howling serene whistle, respectively. Each responds to touch differently. Solar panels charge the onboard batteries, that power the oscillators and a speaker. They are the perfect self-contained instrument for nightly music at the campground.
 <tr><td align=right>It is also available in red.<td align=right><img src="red.jpg">
 <tr><td colspan=2> 
+a poem
 <pre><i>
 coco jibral
 I enter my ghost into the cocolase,
@@ -110,4 +111,4 @@ when you squirm through it to a clearing where you hear alien voices,
 these are your own voice transposed to the darkened house.
 The sidrassi shatter your path thru the jelly,
 bending you into a field of trash and paper scraps."
-</table>
+
