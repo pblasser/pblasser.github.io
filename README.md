@@ -78,8 +78,8 @@ If you are interested in publishing portions (sound, images) of the old site, pl
  | Ciat-Lonbarde also released kits for the fourses and fyral which are played by touch and other circuit bending techniques. | ![hansgruesel](jpg/ascionlight.jpg) | 
 | ![sid3](jpg/sid3.jpg) | Ciat-Lonbarde also released the sidrassi, sidrazzi, and tetrazzi, which became the sidrax and tetrax that are available today. |
 | Steve Korn and I started Shbobo in 2010, which focused exclusively on gestural instruments for USB. | ![kornBLASSER](jpg/kornBLASSER.jpg) | 
-|  <td colspan=2> SHNTH and TARSH (SHTAR) are Shbobo products. |
-|  <td colspan=2> ![ashSMOKE](jpg/ashSMOKE.jpg) |
+ <td colspan=2> SHNTH and TARSH (SHTAR) are Shbobo products. </td>
+  <td colspan=2> ![ashSMOKE](jpg/ashSMOKE.jpg) </td>
 | March | $420 |
 
 ## Poem
