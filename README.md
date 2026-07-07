@@ -16,7 +16,6 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 
 ## Some Manuals For you
 &#11044; [CAFETERIA_MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
-&#11044; NORTUBE
 &#11044;
 
 ### Older Ciat Lonbarde Documents
