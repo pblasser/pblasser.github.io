@@ -39,7 +39,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [Fourses](pdf/fourses.pdf)
 &#11044; [Mister_Grassi](pdf/grassi.pdf)
 &#11044; rolz [gif/rolz1.gif](1) [gif/rolz2.gif](2) [gif/rolz3.gif](3) [gif/rolz4.gif](4) [gif/rolz5.gif](5) [gif/rolz6.gif](6)
-
+&#11044;
 ## Some Articles For you
 &#11044; [Masters_thesis](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/17013-Original%20File.pdf) &#11044; [backup](pdf/pb_mast.pdf)
 &#11044; [Oval_Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
