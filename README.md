@@ -45,6 +45,10 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [Oval_Synth](https://econtact.ca/17_4/blasser_ovalsynth.html)
 &#11044; [Solar_Sounders](https://econtact.ca/18_3/blasser_solarsounder.html)
 &#11044;
+
+
+"Pretty Paper Rolls: Experiments in Woven Circuits" Leonardo Music Journal (2007) 17: 25–27.
+
 ## Coloring Projects
 &#11044; [Computer_Music_Coloring_Papers](pdf/cmloring.pdf)
 &#11044; [Ciat_Lonbarde_Coloring_Book](pdf/coloring.pdf)
