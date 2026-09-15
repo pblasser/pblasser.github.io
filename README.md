@@ -8,6 +8,8 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 
 ![cocoquantus](jpg/cocoWEB.jpg)
 
+![sidrax](jpg/blasser_instrument1.jpg)
+
 ## Some Repositories For YOu
 &#11044; [SHBOBO](https://github.com/pblasser/shbobo/)
 &#11044; [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
