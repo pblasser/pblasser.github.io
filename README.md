@@ -10,7 +10,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 
 ![sidrax](jpg/blasser_instrument1.jpg)
 
-## Some Repositories For YOu
+## Repositories
 &#11044; [SHBOBO](https://github.com/pblasser/shbobo/)
 &#11044; [ESP_CAFE](https://github.com/pblasser/esp_cafe/)
 &#11044; [CLAWYER](https://github.com/pblasser/clawyer/)
@@ -18,7 +18,7 @@ If you are interested in publishing portions (sound, images) of the old site, pl
 &#11044; [SKETCHUP](https://github.com/pblasser/sketch2023/)
 &#11044;
 
-## Some Manuals For you
+## Manuals
 &#11044; [CAFETERIA_MANUAL](https://docs.google.com/document/d/1D_CIZHTju4iy1mDPrkbwnlVWf3Rq46L3JqkUNoO1eGQ/)
 &#11044; [NORTUBE_MANUAL](https://docs.google.com/document/d/1qY16vEkpBDmXNdFVybPxqZ6XuUdOjjkWapdQmYbFRI8/)
 &#11044;
